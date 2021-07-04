@@ -1,5 +1,5 @@
-# TheNewCyberSecurityStandard
-Simple tips for increase cybersecurity
+# The New CyberSecurity Standard
+Simple tips for increase cybersecurity and bring more cybersecurity awareness
 
 # Simple tips for increase cybersecurity
 
