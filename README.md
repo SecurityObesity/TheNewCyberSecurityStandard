@@ -1,7 +1,7 @@
 # TheNewCyberSecurityStandard
 Simple tips for increase cybersecurity
 
-##Simple tips for increase cybersecurity
+# Simple tips for increase cybersecurity
 
 + Don't share personal sensitive informations on social media and don't tell a stranger
 + Only transfer money to someone you trust, but companies can still make real mistakes
@@ -17,7 +17,7 @@ Simple tips for increase cybersecurity
 + Only allow Remote Access through an Encrypted Network tunnel with a VPN Connection
 + You are unable to prevent a security breach and unable to make 100 percent security
 
-###Windows Security Hardening
+### Windows Security Hardening
 
 + Disable All User Accounts that you might not know is being used
 + Never allow sharing user accounts
