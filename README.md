@@ -16,6 +16,7 @@ Simple tips for increase cybersecurity and bring more cybersecurity awareness
 + Physical Security meassures pays off with higher cybersecurity
 + Only allow Remote Access through an Encrypted Network tunnel with a VPN Connection
 + You are unable to prevent a security breach and unable to make 100 percent security
++ use ssh keys for connecting to server rather than passwords
 
 ### Windows Security Hardening
 
